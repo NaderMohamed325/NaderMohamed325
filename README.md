@@ -15,6 +15,28 @@ I am Undergraduate Embedded software engineer who loves C lang and C++.
 src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+
+
+
+
+
+
+### LeetCode Stats
+![](https://leetcard.jacoblin.cool/nadoormohamed30?ext=heatmap)
+
+
+
+
+
+
+
+
+
+
+### Codeforces Stats
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nader_Mohamed325)
+
+
 ### Skills
 
 
@@ -24,6 +46,8 @@ src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-t
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+
 </p>
 
 
