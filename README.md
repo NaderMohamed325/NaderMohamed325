@@ -33,9 +33,6 @@ src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-t
 
 
 
-### Codeforces Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nader_Mohamed325)
-
 
 ### Skills
 
