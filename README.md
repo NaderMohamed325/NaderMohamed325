@@ -15,8 +15,7 @@ I am Undergraduate Embedded software engineer who loves C lang and C++.
 src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NaderMohamed325&theme=dark)](https://git.io/streak-stats)
 
 
 
