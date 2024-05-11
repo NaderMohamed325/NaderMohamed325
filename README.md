@@ -8,8 +8,8 @@ I am Undergraduate Embedded software engineer who loves C lang and C++.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)
-* 🧠  I'm learning Embedded C language
-* ⚡  I'm secretly Rayan Gosling but don't tell anyone.
+* 🧠  I'm learning MCU interfacing now
+* ⚡  I'm secretly Batman but don't tell anyone.
 
 <a href="https://www.twitter.com/Nader_Moh325" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
