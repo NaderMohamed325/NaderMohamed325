@@ -1,56 +1,101 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nader Mohamed
-=====================================================================================================================================
 
-Embedded software engineer
---------------------------
+---
 
-I am Undergraduate Embedded software engineer who loves C lang and C++.
+### Hi there! 👋 I'm Nader Mohamed
 
-* 🌍  I'm based in Egypt
-* ✉️  You can contact me at [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)
-* 🧠  I'm learning MCU interfacing now
-* ⚡  I'm secretly Batman but don't tell anyone.
+---
 
-<a href="https://www.twitter.com/Nader_Moh325" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+**🌍 Location:** Egypt
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NaderMohamed325&theme=dark)](https://git.io/streak-stats)
+**✉️ Contact:** [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)
 
+**🧠 Current Focus:** Learning MCU interfacing
 
+**⚡ Fun Fact:** I'm secretly Batman, but don't tell anyone!
 
+---
+
+### Online Presence
+
+<p align="left">
+  <a href="https://twitter.com/Nader_Moh325" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/NaderMohamed325" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/NaderMohamed325?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/nader-mohamed-b85531234" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/607261528915181568" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/Nader3250" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="http://www.instagram.com/nader_325_0" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/NaderMohamed325">
+    <img src="https://github-readme-stats.vercel.app/api?username=NaderMohamed325&show_icons=true&theme=dark&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="Nader's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=NaderMohamed325&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
 
 ### LeetCode Stats
-![](https://leetcard.jacoblin.cool/nadoormohamed30?ext=heatmap)
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nadoormohamed30?ext=heatmap" alt="Nader's LeetCode Stats" />
+</p>
 
-
-
-
-
-
-
-
-
+---
 
 ### Skills
 
-
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+  </a>
 </p>
 
+---
 
-### Socials
+### Top Languages
 
-<p align="left"> <a href="https://discord.com/users/607261528915181568" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/Nader3250" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/NaderMohamed325" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nader_325_0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nader-mohamed-b85531234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Nader_Moh325" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://github.com/NaderMohamed325">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderMohamed325&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</p>
 
-### Badges
+---
 
-<a href="https://github.com/NaderMohamed325" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderMohamed325&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
