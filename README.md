@@ -9,7 +9,7 @@
 
 **✉️ Contact:** [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)
 
-**🧠 Current Focus:** Learning MCU interfacing
+**🧠 Current Focus:** Stm32f103C6 and Avr
 
 **⚡ Fun Fact:** I'm secretly Batman, but don't tell anyone!
 
