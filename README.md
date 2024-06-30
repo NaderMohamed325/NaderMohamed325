@@ -54,15 +54,7 @@
   </a>
 </p>
 
----
 
-### LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nadoormohamed30?ext=heatmap" alt="Nader's LeetCode Stats" />
-</p>
-
----
 
 ### Skills
 
