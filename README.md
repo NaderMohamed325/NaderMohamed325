@@ -14,13 +14,22 @@
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 - **Embedded Systems:**  
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+  ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  
+  ![ATmega32](https://img.shields.io/badge/-ATmega32-004B91?style=flat&logo=atmel&logoColor=white)  
+  ![ESP32](https://img.shields.io/badge/-ESP32-2C3E50?style=flat&logo=espressif&logoColor=white)  
+  ![UART](https://img.shields.io/badge/-UART-002244?style=flat&logo=serial&logoColor=white)  
+  ![I2C](https://img.shields.io/badge/-I2C-0078D7?style=flat&logo=i2c&logoColor=white)  
+  ![SPI](https://img.shields.io/badge/-SPI-FF8C00?style=flat&logo=spi&logoColor=white)
 
 - **Operating Systems:**  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 - **Automotive Software Development:**  
   ![Adaptive AUTOSAR](https://img.shields.io/badge/-Adaptive%20AUTOSAR-FF9900?style=flat&logo=car&logoColor=white)
+
+- **Robotics:**  
+  ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
 
 ---
 
