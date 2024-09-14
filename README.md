@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Nader Mohamed
 **🌍 Location:** Egypt  
 **✉️ Contact:** [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)  
@@ -8,7 +9,8 @@
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 - **Web Development:**  
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -42,3 +44,4 @@
 ---
 ## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaderMohamed325&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+
