@@ -3,32 +3,56 @@
 **🌍 Location:** Egypt  
 **✉️ Contact:** [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)  
 ---
-## 🛠️ Skills
-- **Programming Languages:**  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- **Web Development:**  
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-- **Embedded Systems:**  
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-  ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)  
-  ![ATmega32](https://img.shields.io/badge/-ATmega32-004B91?style=flat&logo=atmel&logoColor=white)  
-  ![ESP32](https://img.shields.io/badge/-ESP32-2C3E50?style=flat&logo=espressif&logoColor=white)  
-  ![UART](https://img.shields.io/badge/-UART-002244?style=flat&logo=serial&logoColor=white)  
-  ![I2C](https://img.shields.io/badge/-I2C-0078D7?style=flat&logo=i2c&logoColor=white)  
-  ![SPI](https://img.shields.io/badge/-SPI-FF8C00?style=flat&logo=spi&logoColor=white)
-  ![CAN](https://img.shields.io/badge/-CAN-4C8803?style=flat&logo=can&logoColor=white)
-- **Operating Systems:**  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- **Automotive Software Development:**  
-  ![Adaptive AUTOSAR](https://img.shields.io/badge/-Adaptive%20AUTOSAR-FF9900?style=flat&logo=car&logoColor=white)
-- **Robotics:**  
-  ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white)
+## ⚡ My Skills
+<br />
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
+      <br>Express.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ros" width="45" height="45" alt="ROS" />
+      <br>ROS
+    </td>
+  </tr>
+</table>
+
+
 ---
 ## 🌐 Online Presence
 [![Twitter](https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://twitter.com/Nader_Moh325)  
