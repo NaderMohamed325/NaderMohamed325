@@ -4,53 +4,54 @@
 
 ---
 
-## ⚡ My Skills
-<br />
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ros" width="45" height="45" alt="ROS" />
-      <br>ROS
-    </td>
-</table>
+## ⚡ My Skills  
+<br />  
+<table align="center">  
+  <tr>  
+    <td align="center" width="90">  
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />  
+      <br>C++  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />  
+      <br>JavaScript  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />  
+      <br>Node.js  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />  
+      <br>Express.js  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />  
+      <br>MongoDB  
+    </td>  
+  </tr>  
+  <tr>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />  
+      <br>Java  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />  
+      <br>Python  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />  
+      <br>HTML  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />  
+      <br>Linux  
+    </td>  
+    <td align="center" width="90">  
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL" />  
+      <br>SQL  
+    </td>  
+  </tr>  
+</table>  
 
 ---
 
@@ -82,7 +83,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaderMohamed325&show_icons=true&theme=dark&hide_border=true&title_color=0891b2&icon_color=0891b2" alt="GitHub Stats" />
 
-  
   <img src="https://streak-stats.demolab.com/?user=NaderMohamed325&theme=dark" alt="GitHub Streak" />
 </p>
 
@@ -92,4 +92,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderMohamed325&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
-
