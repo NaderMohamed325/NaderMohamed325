@@ -48,7 +48,7 @@
     </td>  
     <td align="center" width="90">  
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MYSQL" />  
-      <br>SQL  
+      <br>MySQL  
     </td>  
   </tr>  
 </table>  
