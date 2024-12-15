@@ -43,8 +43,8 @@
       <br>HTML  
     </td>  
     <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />  
-      <br>Linux  
+      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="Typescript" />  
+      <br>Typescript  
     </td>  
     <td align="center" width="90">  
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MYSQL" />  
