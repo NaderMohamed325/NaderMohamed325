@@ -94,10 +94,7 @@
     </td>  
   </tr>  
 </table>  
-
-<a align="center" href="#📈-my-github-stats">  
-  <img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />  
-</a>  
+ 
 
 ---
 
