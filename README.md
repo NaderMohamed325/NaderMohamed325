@@ -35,8 +35,8 @@
       <br>Java  
     </td>  
     <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />  
-      <br>Python  
+      <img src="https://skillicons.dev/icons?i=Django" width="45" height="45" alt="Django" />  
+      <br>Django  
     </td>  
     <td align="center" width="90">  
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />  
