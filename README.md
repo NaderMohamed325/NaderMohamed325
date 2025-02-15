@@ -35,7 +35,7 @@
       <br>Java  
     </td>  
     <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=Django" width="45" height="45" alt="Django" />  
+      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />  
       <br>Django  
     </td>  
     <td align="center" width="90">  
