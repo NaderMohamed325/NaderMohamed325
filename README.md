@@ -1,104 +1,60 @@
-# Hi there! 👋 I'm Nader Mohamed  
-**🌍 Location:** Egypt  
-**✉️ Contact:** [nnader@std.mans.edu.eg](mailto:nnader@std.mans.edu.eg)  
+# 👋 Hello, I'm Nader Mohamed
+
+![Profile Views](https://komarev.com/ghpvc/?username=NaderMohamed325&color=blueviolet)
+
+🎓 **Student at Mansoura University**  
+💼 **Aspiring Software Engineer**  
+🌍 **Based in Egypt**  
+📧 **Contact:** nnader@std.mans.edu.eg  
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/nadermohamed325) | [Facebook](https://www.facebook.com/Nader3250)
 
 ---
 
-## ⚡ My Skills  
-<br />  
-<table align="center">  
-  <tr>  
-    <td align="center" width="90">  
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />  
-      <br>C++  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />  
-      <br>JavaScript  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />  
-      <br>Node.js  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />  
-      <br>Express.js  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />  
-      <br>MongoDB  
-    </td>  
-  </tr>  
-  <tr>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />  
-      <br>Java  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />  
-      <br>Django  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />  
-      <br>HTML  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="Typescript" />  
-      <br>TypeScript  
-    </td>  
-    <td align="center" width="90">  
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />  
-      <br>MySQL  
-    </td>  
-  </tr>  
-</table>  
+## 🚀 About Me
+
+- 🔭 I’m currently working on full-stack web development projects.
+- 🌱 I’m exploring backend frameworks like Django and Express.js.
+- 💬 Ask me about JavaScript, Node.js, or C++.
+- ⚡ Fun fact: I enjoy solving complex algorithms and participating in coding challenges.
 
 ---
 
-## 🌐 Online Presence  
-<p align="center">  
-  <a href="https://twitter.com/Nader_Moh325">  
-    <img src="https://img.shields.io/twitter/follow/Nader_Moh325?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />  
-  </a>  
-  <a href="https://github.com/NaderMohamed325">  
-    <img src="https://img.shields.io/github/followers/NaderMohamed325?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />  
-  </a>  
-  <a href="https://www.linkedin.com/in/nader-mohamed-b85531234">  
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />  
-  </a>  
-  <a href="https://discord.com/users/607261528915181568">  
-    <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord" alt="Discord" />  
-  </a>  
-  <a href="https://www.facebook.com/Nader3250">  
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook" alt="Facebook" />  
-  </a>  
-  <a href="http://www.instagram.com/nader_325_0">  
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />  
-  </a>  
-</p>  
+## 🛠️ Languages and Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-## 📈 My GitHub Stats  
-<table align="center">  
-  <tr>  
-    <td align="center" width="45%">  
-      <img width="100%" src="https://gh-readme-profile.vercel.app/api?username=NaderMohamed325&theme=neon-dark&hide_border=true" alt="GitHub Stats" />  
-    </td>  
-    <td align="center" width="55%">  
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaderMohamed325&theme=2077" alt="GitHub Profile Details" />  
-    </td>  
-  </tr>  
-    <td align="center" width="60%">  
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=NaderMohamed325&theme=react-dark&hide_border=true" alt="Contribution Graph" />  
-    </td>  
-  </tr>  
-</table>  
- 
+## 📊 GitHub Stats
+
+![Nader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaderMohamed325&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaderMohamed325&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Top Languages  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaderMohamed325&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />  
-</p>  
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NaderMohamed325&theme=radical&no-bg=true&no-frame=true)
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaboration or just a friendly chat!
+
+- 📧 Email: nnader@std.mans.edu.eg
+- 💼 LinkedIn: [nadermohamed325](https://www.linkedin.com/in/nadermohamed325)
+- 🌐 Facebook: [Nader3250](https://www.facebook.com/Nader3250)
+
+---
+
+*This README was inspired by the [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) repository.*
