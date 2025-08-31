@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on full-stack web development projects.
-- 🌱 I’m exploring backend frameworks like Django and Express.js.
-- 💬 Ask me about JavaScript, Node.js, or C++.
-- ⚡ Fun fact: I enjoy solving complex algorithms and participating in coding challenges.
+- 🔭 I’m currently working on **full-stack web development projects**.  
+- 🌱 I’m exploring backend frameworks like **Django** and **Express.js**.  
+- 💬 Ask me about **JavaScript, Node.js, C++, or NestJS WebSockets**.  
+- ⚡ Fun fact: I enjoy solving complex algorithms and participating in coding challenges.  
 
 ---
 
@@ -23,14 +23,16 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
@@ -47,6 +49,13 @@
 
 ---
 
+## 📡 Real-Time Development
+
+- ⚡ Experienced in **building real-time apps** with **NestJS WebSockets** & **Socket.IO**  
+- 🔔 Implemented **live notifications, chat systems, and event-driven microservices**  
+
+---
+
 ## 📫 Let's Connect
 
 Feel free to reach out for collaboration or just a friendly chat!
@@ -56,5 +65,3 @@ Feel free to reach out for collaboration or just a friendly chat!
 - 🌐 Facebook: [Nader3250](https://www.facebook.com/Nader3250)
 
 ---
-
-*This README was inspired by the [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme) repository.*
