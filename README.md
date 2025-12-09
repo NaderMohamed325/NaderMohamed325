@@ -86,6 +86,12 @@ Daily quiz generation system with AI-powered topic recommendations, session mana
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaderMohamed325/NaderMohamed325/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaderMohamed325/NaderMohamed325/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaderMohamed325/NaderMohamed325/output/github-contribution-grid-snake.svg">
+</picture>
+---
 
 
 ## 📫 Let's Connect!
