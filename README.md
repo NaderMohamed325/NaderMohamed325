@@ -21,7 +21,7 @@ I'm a motivated engineering student passionate about building **scalable, mainta
 ## 💼 Experience & Training
 
 **ST's Mentorship Program** — Graduation Project (2025–2026)
-- Developing integrated embedded systems with industry mentors
+- Developing integrated backend systems with industry mentors
 - Applying real-time data processing and system integration concepts
 
 **ALX Backend Development** — Remote (2025)
@@ -70,9 +70,6 @@ Daily quiz generation system with AI-powered topic recommendations, session mana
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -86,13 +83,6 @@ Daily quiz generation system with AI-powered topic recommendations, session mana
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 --- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaderMohamed325/NaderMohamed325/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaderMohamed325/NaderMohamed325/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NaderMohamed325/NaderMohamed325/output/github-contribution-grid-snake.svg">
-</picture>
----
-
 
 ## 📫 Let's Connect!
 
