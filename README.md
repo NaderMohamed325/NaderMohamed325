@@ -9,11 +9,11 @@
  ╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
 ```
 
-### Software Engineer
-
+### Backend Engineer · Distributed Systems & Low-Level Programming
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadermohamed325)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaderMohamed325)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://nadermohamed325.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadoormohamed30@gmail.com)
 
 </div>
@@ -26,13 +26,14 @@
 name: Nader Mohamed
 role: Backend & Systems Engineer
 location: Egypt 📍
+education: B.Sc. Electronics & Communications Engineering, Mansoura University (GPA 90%)
 focus:
   - Distributed systems & real-time applications
-  - Scalable REST & event-driven APIs
-  - Low-level programming & CLI tooling
-currently_building:
-  - Nexora       # Spring Boot social media platform
-  - Yaquod       # Real-time vehicle management system (STMicroelectronics mentorship)
+  - Scalable REST & GraphQL APIs
+  - Low-level programming & networking (userspace TCP/IP, CLI tooling)
+currently_exploring:
+  - Platform & infrastructure engineering
+  - Competitive programming
 ```
 
 ---
@@ -56,6 +57,7 @@ currently_building:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Frontend**
 
@@ -68,7 +70,7 @@ currently_building:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Tools**
+**DevOps & Messaging**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,21 +81,33 @@ currently_building:
 
 ## 📌 Featured Projects
 
-### 🚗 Yaquod — Real-Time Vehicle Management System
-> Industry project built under **STMicroelectronics** mentorship
+### ✈️ Airport Management System
+Backend for airport operations built with **NestJS + GraphQL (code-first Apollo)**, TypeORM, and PostgreSQL. Uses pessimistic locking for concurrency-safe reservations, DataLoader to prevent N+1 queries, cursor-based pagination, RBAC enforced at operation/field/row level, and WebSocket subscriptions authenticated over `connectionParams`.
 
-A backend system for real-time vehicle tracking and management. Built with Spring Boot, MQTT for IoT communication, WebSockets for live updates, and Docker for deployment.
+`NestJS` `GraphQL` `TypeORM` `PostgreSQL` `BullMQ` `JWT/RBAC` `WebSockets`
 
-`Spring Boot` `MQTT` `WebSockets` `Docker` `PostgreSQL`
+---
+
+### 🚗 Yaquod — Autonomous Ride-Sharing Backend
+> Graduation project built under **STMicroelectronics** mentorship, 8-person team
+
+Backend for an autonomous ride-sharing platform: Spring Boot with PostGIS for geospatial queries, Redis pub/sub and keyspace notifications for real-time state, MQTT/Mosquitto for vehicle communication, and Docker for deployment. Ships 20+ RESTful APIs backed by 377 Mockito unit tests.
+
+`Spring Boot` `PostGIS` `Redis` `MQTT` `Docker`
 
 ---
 
 ### 🌐 Nexora — Social Media Platform
-> Full-featured backend with a clean architecture focus
+Feature-rich backend with authentication (JWT/OAuth2), Redis pub/sub, BullMQ job processing, real-time updates via Socket.IO, and multi-provider auth.
 
-Feature-rich social platform backend covering authentication (JWT/OAuth2), real-time feeds, file uploads via Cloudinary, rate limiting with Redis + Bucket4j, async processing with RabbitMQ, and PostgreSQL full-text search.
+`NestJS` `Redis` `BullMQ` `Socket.IO` `PostgreSQL`
 
-`Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `Cloudinary` `Docker`
+---
+
+### 🌐 trust — Userspace TCP/IP Stack
+A TCP/IP stack implemented in userspace **Rust** on top of a Linux TUN interface — handling packet parsing and the handshake/state machine outside the kernel. Verified with 0% packet loss and sub-2ms RTT across 20 concurrent SYN probes.
+
+`Rust` `Linux TUN` `Networking`
 
 ---
 
